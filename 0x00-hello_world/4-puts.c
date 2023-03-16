@@ -1,0 +1,10 @@
+#!/bin/bash
+/**
+ * main - A program that printa a line with puts functions
+ * Return: 0 (Success)
+ */
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}
